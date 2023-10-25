@@ -66,6 +66,7 @@ foo@pop-os:~$ npm -v
 
 ## Author
 
-* **Wilson Osuji** (@wilsonosuji) - 
-  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/wilson-osuji/)
-  [<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/wilsonosuji)
+* **Oghenemaro Ileta-Okegbe** (@oghenemaroIleta-Okegbe) - 
+  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maro-okegbe-91b12b237)
+  [<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/Mairho)
+
