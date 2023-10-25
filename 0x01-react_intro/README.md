@@ -1,15 +1,4 @@
-# 0x01. Webpack
-
-## Description:bulb:
-
-Brace yourselves, Webpack is comming
-
-- How to setup Webpack for a basic project
-- Entry points, output, and loaders
-- How to add plugins
-- How to split your code into chunks
-- How to setup a dev server
-
+0x01-react_intro
 ## Technologies & Tools:computer:
 
 [![Jest](https://img.shields.io/badge/≡-Jest-C21325?logo=Jest&style=flat-square&labelColor=282828&logoColor=C21325)](https://jestjs.io/)
